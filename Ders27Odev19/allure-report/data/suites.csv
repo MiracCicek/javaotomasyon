@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Apr 09 21:07:30 TRT 2024","Tue Apr 09 21:07:30 TRT 2024","4","Default Suite","Ders27Odev19","org.example.MainTest","org.example.MainTest","testEmployeeCalculateSalary","testEmployeeCalculateSalary","Test employee salary calculation"
+"failed","Tue Apr 09 21:07:30 TRT 2024","Tue Apr 09 21:07:30 TRT 2024","2","Default Suite","Ders27Odev19","org.example.MainTest","org.example.MainTest","testEmployeeCalculateSalary","testEmployeeCalculateSalary","Test employee salary calculation"
+"passed","Tue Apr 09 21:07:30 TRT 2024","Tue Apr 09 21:07:30 TRT 2024","11","Default Suite","Ders27Odev19","org.example.MainTest","org.example.MainTest","testEmployeeCalculateSalary","testEmployeeCalculateSalary","Test employee salary calculation"
